@@ -144,8 +144,8 @@ pc[t]=price(m,n1);
     data[102]=sub.text(60,100,str1,"BLACK");
       data[103]=sub.text(60,600,str2,"BLACK");
       
-      data[104]=sub.text(70,300,"消費","BLUE");
-      data[105]=sub.text(300,600,"期間","BLUE");
+      data[104]=sub.text(70,300,"消費","BLACK");
+      data[105]=sub.text(300,600,"期間","BLACK");
       
       writefile("dsge.svg");
  
